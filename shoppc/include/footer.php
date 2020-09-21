@@ -6,5 +6,8 @@ wmode="transparent" quality="high"
 name="Advertisement" style="admincp" 
 src="images/quangcao.swf" 
 type="application/x-shockwave-flash"> -->
-Đồ án Website kinh doanh máy tính xách tay</br>
-Thực hiện: Đỗ Minh Tâm - 161250533239 - dominhtam@gmail.com
+Website kinh doanh máy tính xách tay</br>
+Trang web mua bán máy tính xách tay cho người Việt
+98 Ông Ích Khiêm Hải Châu, Đà Nẵng </br>
+Phone: 084 283 45 85</br>
+Email: dominhtam1103@gmail.com

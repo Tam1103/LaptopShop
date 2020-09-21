@@ -18,7 +18,7 @@
 <div align="justify" style="width:550;line-height:20px">
 <div align="center">
 <div align="center" style="line-height:25px ">
- <span class="style1">ĐỒ ÁN TỔNG HỢP</span></div>  
+ <span class="style1"><marquee direction="right">LAPTOPSHOP LUÔN VUI LÒNG PHỤC VỤ QUÝ KHÁCH</marquee></span></div>  
    <div class="style8" align="center"><br />
   WEBSITE KINH DOANH MÁY TÍNH SÁCH TAY</div>
    <p><br>
@@ -36,7 +36,7 @@
       <td style="color:#0000FF; font-size:18px; padding-left:30px"><strong><span style="font-size: 18px; color: #FF0000">0903156306</span></strong></td>      
     </tr>
     <tr>
-      <td style="color:#0000FF; font-size:18px; padding-left:30px"><span style="color:#FF0000; font-size:18px"><strong>01657990372</strong></span></td>
+      <td style="color:#0000FF; font-size:18px; padding-left:30px"><span style="color:#FF0000; font-size:18px"><strong>0357990372</strong></span></td>
     </tr>
      <tr>
       <td style="color:#0000FF; font-size:18px; padding-left:30px">&nbsp;</td>
@@ -44,7 +44,7 @@
    <tr><td colspan="2"><hr /></td></tr>
     <tr>
       <td width="200"  rowspan="3" align="right" style="border-right:1px dotted #CCCCCC"><div style="font-size:18px;"><strong>Hỗ trợ online:</strong></div></td>
-      <td style="color:#0000FF; font-size:18px; padding-left:30px"><span class="title">dominhtam@gmail.com</span></font></font></td>      
+      <td style="color:#0000FF; font-size:18px; padding-left:30px"><span class="title">dominhtam1103@gmail.com</span></font></font></td>      
     </tr>
     <tr>
       <td style="color:#0000FF; font-size:18px; padding-left:30px">nguyenho.qn.123@gmail.com</span></font></font></td>
